@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 html(lang="en")
+  include _component/config/config
   head
     meta(charset="UTF-8")
     meta(name="viewport", content="width=device-width, initial-scale=1.0")
     title Stie cineva de ce nu s-a schimbat culoarea?
-    link(rel="stylesheet", href="/style.css")
+    link(rel="stylesheet", href=`${baseUrl}style.css`)
   body
     include _component/menu/menu
     h1 cum faci aia?
