@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AACA,GACE,eAAgB","file":"style.css","sourcesContent":["$baseUrl: \"/cum-vreau-sa-l-numesc-pe-asta/\";\nh1 {\n  color: lightblue;\n}\n"]}
