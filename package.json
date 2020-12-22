@@ -22,7 +22,7 @@
   },
   "config": {
     "customUrl": "http://pug-starter.codetap.academy",
-    "githubUrl": "http://github.com/marianzburlea/pug-starter.git",
+    "githubUrl": "http://github.com/marianzburlea/cum-vreau-sa-l-numesc-pe-asta.git",
     "deployToGithubIo": true,
     "directory": {
       "development": "tmp",
@@ -110,7 +110,6 @@
     "gulp-changed-in-place": "2.3.0",
     "gulp-debug": "4.0.0",
     "gulp-eslint": "6.0.0",
-    "gulp-gh-pages": "0.6.0-1",
     "gulp-if": "3.0.0",
     "gulp-imagemin": "6.1.0",
     "gulp-inline-source": "4.0.0",
@@ -136,5 +135,7 @@
     "pngquant-bin": "5.0.2",
     "standard-version": "7.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "gulp-gh-pages": "^0.5.4"
+  }
 }
